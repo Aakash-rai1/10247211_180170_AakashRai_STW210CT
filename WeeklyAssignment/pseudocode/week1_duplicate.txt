@@ -1,0 +1,15 @@
+Finding duplicate in an array
+
+step 1: start
+step 2: input array[1,3,4,7,5,3,1,9]
+step 3: declare i=0
+step 4: for loop until less than array.length
+        for (i=o, i<array.lenght;i++)
+step 5: Array[Array[i] % 10] = Array[Array[i] % 10] + 10;
+step 6: output("the duplicates are: ");
+step 7: for loop until less than Array.length 
+         for (int i = 0; i < Array.length; i++)
+step 8: if Array[i] greater than 10
+ 	if(Array[i] > 10)
+step 9: output(i+"")
+step 10: end

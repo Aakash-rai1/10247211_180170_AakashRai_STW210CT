@@ -1,0 +1,18 @@
+finding palindrome
+
+step 1: start
+step 2: output("please 'insert a word")
+step 3: input word
+step 4: declare reverseword
+step 5: char[] reverseWord is equal to word.tocharArray()
+step 6: declare word2
+step 7: for i equal to ReverseWord.length-1 and greater than or equal to 0
+	word2is equal to word2+reverseWord[i]
+step 8: if
+       Word is equal to word2
+	output"The word is palindome"
+	
+Step 9: else
+	output" The word is not palindrome"
+	End if
+step 10: end
